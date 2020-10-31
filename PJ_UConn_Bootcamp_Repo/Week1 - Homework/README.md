@@ -16,6 +16,6 @@ Open index.html file in a web browser.
 
 The following articles were used in the completion of this assignment:
 
-https://www.w3schools.com/html/html_accessibility.asp
-https://learn-the-web.algonquindesign.ca/topics/html-semantics-cheat-sheet/
+https://www.w3schools.com/html/html_accessibility.asp  
+https://learn-the-web.algonquindesign.ca/topics/html-semantics-cheat-sheet/  
 http://www.davidmacd.com/blog/alternate-text-for-css-background-images.html
